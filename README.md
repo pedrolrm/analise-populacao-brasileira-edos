@@ -31,7 +31,7 @@ A análise mostrou que o **modelo Logístico de Verhulst** descreve o cresciment
 -   **Precisão do Modelo:** A superioridade do modelo logístico foi confirmada tanto visualmente, através do ajuste da curva aos dados, quanto por meio das métricas de erro, que apresentaram um **R²** mais próximo de 1 e um **RMSE** ordens de magnitude menor.
 -   **Padrão de Crescimento:** O resultado sugere que a população do Brasil não cresce de forma acelerada e sem limites, mas segue um padrão que desacelera e tende a um valor máximo (capacidade de suporte).
 -   **Projeção para 2050:** O modelo logístico estimou uma população de **237 milhões de habitantes** em 2050.
--   **Validação:** Este valor se mostrou notavelmente próximo da projeção oficial da ONU, que estima **233 milhões** de habitantes para o mesmo ano, representando uma **diferença de menos de 2%**. A informação foi obtida nesta [reportagem da BBC Brasil](https://www.bbc.com/portuguese/articles/c4n111g8g1zo).
+-   **Validação:** Este valor se mostrou notavelmente próximo da projeção oficial da ONU, que estima **233 milhões** de habitantes para o mesmo ano, representando uma **diferença de menos de 2%**. A informação foi obtida nesta [reportagem da BBC Brasil](https://www.bbc.com/portuguese/noticias/story/2003/12/printable/031209_brasilcs).
 
 A proximidade entre os resultados valida o modelo logístico como uma ferramenta eficaz e robusta para entender e prever a dinâmica da população brasileira neste contexto.
 
